@@ -3,7 +3,7 @@ font-family: Verdana,sans-serif;
 font-size: 18px;
 line-height: 1.5;
 box-sizing: inherit;
-background-image: url("BG1.png");
+background-image: url("Pictures/BG1.png");
 }
 
 *{
@@ -21,7 +21,7 @@ body {
 }
 
 .about-section{
-	background: url("Pictures\ECC.jpg"); no-repeat left;
+	background: url("Pictures/ECC.jpg"); no-repeat left;
 	background-size: 55%;
 	background-color: #fdfdfd;
 	overflow: hidden;
